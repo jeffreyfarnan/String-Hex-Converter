@@ -1,1 +1,5 @@
-# String-Hex-Converter
+#String-Hex-Converter
+
+Language: C
+
+Description:
